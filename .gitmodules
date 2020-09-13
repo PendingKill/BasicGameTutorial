@@ -1,0 +1,3 @@
+[submodule "Plugins/OnlineSubsystemEpic"]
+	path = Plugins/OnlineSubsystemEpic
+	url = git@github.com:xuelongmu/OnlineSubsystemEpic.git
